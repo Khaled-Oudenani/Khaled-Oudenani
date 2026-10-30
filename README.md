@@ -67,11 +67,4 @@ I'm a Full-Stack Developer from Algeria with a Master's degree in Distributed Ne
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Khaled-Oudenani&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/Khaled-Oudenani">Khaled-Oudenani</a></i></p>
+ter"><i>⭐️ From <a href="https://github.com/Khaled-Oudenani">Khaled-Oudenani</a></i></p>
